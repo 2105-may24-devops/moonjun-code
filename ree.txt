@@ -14,8 +14,4 @@ SSoLeZujZmb
 fEuVezQfFQ
 OCrXMEXLcJe
 
-<<<<<<< HEAD
 This was an edit for the purpose of testing edits made on two different clones of a repository.
-=======
-I edited this to test how GitHub works.
->>>>>>> 8486808945a8c7152583696405de7f70d198f688
